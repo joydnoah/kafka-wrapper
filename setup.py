@@ -7,7 +7,7 @@ setup(
     author='Sebastian Quinones',
     author_email='ingesql1992@hotmail.com',
     # Needed to actually package something
-    packages=['kafka'],
+    packages=['kafka-utils-wrapper'],
     # *strongly* suggested for sharing
     version='0.1',
     # The license can be anything you like
